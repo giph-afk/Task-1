@@ -1,0 +1,18 @@
+# Nmap 7.94SVN scan initiated Thu Nov 13 12:36:22 2025 as: nmap -sS -oN scan_results.txt 172.X.X.X/24
+Nmap scan report for 172.X.X.X
+Host is up (0.0034s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT      STATE SERVICE
+21/tcp    open  ftp
+53/tcp    open  domain
+MAC Address: XX:XX:XX:XX:XX:64 (Unknown)
+
+Nmap scan report for 172.X.X.X
+Host is up (0.00028s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE    SERVICE
+135/tcp filtered msrpc
+139/tcp filtered netbios-ssn
+445/tcp filtered microsoft-ds
+MAC Address: XX:XX:XX:XX:XX:18 (Intel Corporate)
+
