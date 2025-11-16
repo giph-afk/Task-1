@@ -1,0 +1,7 @@
+# Scan output
+scan_results.xml
+scan_results.gnmap
+
+# Optional safety net
+*.log
+*.tmp
